@@ -2,7 +2,9 @@ Vegetable Projects
 ==================
 <table border="2" cellspacing="0" cellpadding="7"> 
 <tr><th>codename</th><th>realname</th><th>development</th><th>release</th></tr>
+<tr><td></td>Algae<td></td><td></td><td></td><td></td></tr>
 <tr><td>AMARANTH</td><td></td><td></td><td></td></tr>
+<tr><td>Angelica</td><td></td><td></td><td></td></tr>
 <tr><td>ARTICHOKE</td><td></td><td></td><td></td></tr>
 <tr><td>ARUGULA</td><td></td><td></td><td></td></tr> 
 <tr><td>Asparagus</td><td></td><td></td><td></td></tr> 
